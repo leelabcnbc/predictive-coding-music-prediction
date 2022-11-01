@@ -1,4 +1,3 @@
-Relating Human Perception of Musicality to Prediction in a Predictive Coding Model
 This repository contains the implementation for the paper:
 
 [**Relating Human Perception of Musicality to Prediction in a Predictive Coding Model**](https://arxiv.org/abs/2210.16587)
