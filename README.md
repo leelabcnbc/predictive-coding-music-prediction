@@ -1,6 +1,6 @@
 This repository contains the implementation for the paper:
 
-[**Relating Human Perception of Musicality to Prediction in a Predictive Coding Model**](https://arxiv.org/abs/2210.16587)
+## [**Relating Human Perception of Musicality to Prediction in a Predictive Coding Model**](https://arxiv.org/abs/2210.16587)
 
 Nikolas McNeal*, Jennifer Huang*, Aniekan Umoren, Shuqi Dai, Roger Dannenberg, Richard Randall, Tai Sing Lee
  
