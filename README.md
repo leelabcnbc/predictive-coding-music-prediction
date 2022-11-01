@@ -23,7 +23,7 @@ conda activate music-prediction
 
 
 ### Train
-To train on the Medley-solos-DB dataset, first download the Medley-solos-DB dataset from [Dropbox](dropbox.com/) and place it in `./train_data`.
+To train on the Medley-solos-DB dataset, first download the Medley-solos-DB dataset from [Zenodo](https://zenodo.org/record/1344103#.Y2Bwe-zML0o) and place it in `./train_data`.
 
 If desired, change any parameters or the name of the saved model in the train file, and run ```python train.py```
 
